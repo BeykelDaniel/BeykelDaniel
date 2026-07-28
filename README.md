@@ -61,11 +61,6 @@ Nota sobre la descripción
 
 ---
 
-### 📘 Proyecto de curso
-- Si me indicas el repositorio exacto del "proyecto de curso" o quieres que lo extraiga del perfil, preparo una ficha técnica similar: ¿qué hace, stack concreto, archivos clave, y buenas prácticas detectadas?
-
----
-
 ## 🧩 Habilidades y buenas prácticas que aplico
 - Accesibilidad: WCAG 2.1 como guía para diseño inclusivo.
 - Responsive-first: componentes y layouts que escalan desde móvil a escritorio.
@@ -77,8 +72,5 @@ Nota sobre la descripción
 
 ## 📬 Contacto
 - GitHub: https://github.com/BeykelDaniel
-- Email: disponible bajo petición (si quieres lo añado aquí)
-- LinkedIn / Portfolio: añadir si deseas que lo incorpore
-
-
-¡Listo! Si quieres que coloque este contenido directamente como README.md en tu repositorio de perfil (con badges de imagen SVG para cada tecnología y/o añadamos la ficha completa del "proyecto de curso"), dime y lo adapto al formato final que prefieras.
+- Email: cabrerajosedaniel89@gmail.com
+- LinkedIn: https://www.linkedin.com/in/beykel-daniel-jos%C3%A9-cabrera-079853412
