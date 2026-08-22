@@ -2,7 +2,7 @@
 
 Desarrollador junior especializado en marca personal e ingeniería de software. Me apasiona construir interfaces accesibles y aplicaciones web mantenibles que resuelvan problemas reales: desde experiencias ricas en cliente con Vue 3 hasta aplicaciones back-end robustas con Laravel.
 
-- 🔭 Actualmente construyendo proyectos personales y colaborando en proyectos intermodulares.
+- 🔭 Actualmente construyendo proyectos personales.
 - 🌱 Foco en accesibilidad (WCAG 2.1), rendimiento y diseño responsive.
 - 📫 Contacto: https://github.com/BeykelDaniel
 
